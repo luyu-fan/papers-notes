@@ -21,3 +21,15 @@
 ### [Transformer系列](./hub/transformer.md)
 
 记录了Transformer自注意力结构相关论文，以及在CV领域的结合和使用。
+
+### [目标检测系列记录](./hub/objectdetection.md)
+
+记录了目标检测，尤其是在超高清、小目标方向的论文阅读记录。
+
+### [ReID](./hub/reid.md)
+
+记录了ReID中的论文阅读记录。
+
+### [MOT](./hub/mot.md)
+
+记录了MOT中的论文阅读记录。
